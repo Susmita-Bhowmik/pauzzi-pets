@@ -1,0 +1,83 @@
+@media screen and (max-width: 1776px) {
+  .veterinary_care_index .main_wapper::before {
+    right: 0;
+  }
+  .veterinary_care_index .main_wapper::after {
+    left: 0;
+  }
+}
+@media screen and (max-width: 1399px) {
+  h2 {
+    font-size: 50px;
+  }
+  .top_search_div .form_wapper {
+    left: -95px;
+  }
+  .main_banner .banner_text_main {
+    width: 1140px;
+  }
+  .main_banner .slick-next {
+    left: 53%;
+    bottom: 15px;
+  }
+  .main_banner .slick-prev {
+    left: 48%;
+    bottom: 15px;
+  }
+  .main_banner h1 {
+    font-size: 70px;
+  }
+  .main_banner figure {
+    height: 504px;
+  }
+  .main_banner .text-top {
+    transform: translateY(-80%);
+  }
+  .product_shop_box h3 {
+    font-size: 25px;
+    padding-right: 0;
+    line-height: 1;
+  }
+  .product_shop_box h3 span {
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 8px;
+  }
+  .product_shop_box figure {
+    height: 200px;
+  }
+  .product_box_main h3 a {
+    font-size: 18px;
+  }
+  .product_box_main .price_tag {
+    font-size: 25px;
+  }
+  .bestsellers_main .nav-tabs {
+    margin-top: 0;
+  }
+  .accessories_img_box_main h3 a {
+    font-size: 30px;
+    line-height: 1;
+  }
+  .accessories_img_box_main h3 a span {
+    font-size: 22px;
+  }
+  .veterinary_care_index .main_wapper::before {
+    right: 0;
+  }
+  .veterinary_care_index .main_wapper::after {
+    left: 0;
+  }
+  .veterinary_care_index h2 {
+    font-size: 40px;
+  }
+  .veterinary_care_index ul strong {
+    font-size: 21px;
+  }
+  .veterinary_care_index .bg_img figure {
+    height: 506px;
+  }
+  .main_footer h3 {
+    font-size: 18px;
+  }
+}/*# sourceMappingURL=responsive.css.map */
